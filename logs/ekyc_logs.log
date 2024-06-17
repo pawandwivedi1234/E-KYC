@@ -2321,3 +2321,128 @@
 [2024-06-17 16:06:47,774: INFO: sql_connection]: Fetched records successfully from aadhar table.
 [2024-06-17 16:06:47,781: INFO: sql_connection]: Fetched records successfully from aadhar table.
 [2024-06-17 16:06:47,781: INFO: sql_connection]: Duplicate records found.
+[2024-06-17 18:59:35,873: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-06-17 19:00:10,726: WARNING: module_wrapper]: From c:\Users\upend\Desktop\Data Science Projects\E-KYC\.venv\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-17 19:00:12,402: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-06-17 19:00:12,479: INFO: face_verification]: Extracting face...
+[2024-06-17 19:00:13,500: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:00:13,928: INFO: sql_connection]: Connection Estabilished with database
+[2024-06-17 19:00:14,802: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:00:14,803: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:00:14,807: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:00:14,808: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:00:29,139: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:00:29,140: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:00:29,146: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 19:00:29,146: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 19:00:39,614: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:00:39,615: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:00:39,620: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 19:00:39,622: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 19:00:39,625: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 19:00:39,627: INFO: app]: Face image loaded.
+[2024-06-17 19:00:39,628: ERROR: app]: No face image uploaded.
+[2024-06-17 19:00:52,773: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:00:52,774: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:00:52,777: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 19:00:52,778: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 19:00:52,783: INFO: app]: Face image loaded.
+[2024-06-17 19:00:52,799: INFO: app]: ID card image loaded.
+[2024-06-17 19:00:52,825: INFO: preprocess]: contours are found at, (0, 0, 1080, 788)
+[2024-06-17 19:00:52,825: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 19:00:52,862: INFO: app]: ID card ROI extracted.
+[2024-06-17 19:00:52,862: INFO: face_verification]: Extracting face...
+[2024-06-17 19:00:53,170: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:00:53,178: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:00:53,186: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:00:53,186: INFO: app]: Faces extracted and saved.
+[2024-06-17 19:00:53,187: INFO: face_verification]: Verifying the images....
+[2024-06-17 19:00:53,188: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:00:53,188: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:01:16,143: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:01:16,144: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:01:16,146: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 19:01:16,147: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 19:01:16,150: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 19:01:16,150: INFO: app]: Face image loaded.
+[2024-06-17 19:01:16,151: ERROR: app]: No face image uploaded.
+[2024-06-17 19:01:18,543: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:01:18,544: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:01:18,548: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 19:01:18,549: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 19:01:21,702: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:01:21,704: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:01:21,707: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:01:21,707: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:09:06,638: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:09:06,638: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:09:06,640: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:09:06,641: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:09:06,644: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 19:09:06,645: INFO: app]: Face image loaded.
+[2024-06-17 19:09:06,646: ERROR: app]: No face image uploaded.
+[2024-06-17 19:10:34,534: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:10:34,537: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:10:34,541: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:10:34,542: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:12:08,874: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:12:08,875: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:12:08,879: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:12:08,880: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:12:08,882: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 19:12:08,883: INFO: app]: Face image loaded.
+[2024-06-17 19:12:08,883: ERROR: app]: No face image uploaded.
+[2024-06-17 19:12:14,132: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:12:14,132: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:12:14,136: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:12:14,137: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:12:14,289: INFO: app]: Face image loaded.
+[2024-06-17 19:12:14,331: INFO: app]: ID card image loaded.
+[2024-06-17 19:12:14,378: INFO: preprocess]: contours are found at, (0, 0, 1280, 805)
+[2024-06-17 19:12:14,379: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 19:12:14,442: INFO: app]: ID card ROI extracted.
+[2024-06-17 19:12:14,443: INFO: face_verification]: Extracting face...
+[2024-06-17 19:12:14,913: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:12:14,924: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:12:15,220: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:12:15,220: INFO: app]: Faces extracted and saved.
+[2024-06-17 19:12:15,220: INFO: face_verification]: Verifying the images....
+[2024-06-17 19:12:15,220: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:12:15,221: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:12:23,795: INFO: face_verification]: Faces are not verified as the same person
+[2024-06-17 19:12:23,804: INFO: app]: Face verification status: failed.
+[2024-06-17 19:18:05,675: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:18:05,677: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:18:05,684: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:18:05,685: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:18:05,688: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 19:18:05,690: INFO: app]: Face image loaded.
+[2024-06-17 19:18:05,691: ERROR: app]: No face image uploaded.
+[2024-06-17 19:18:11,667: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 19:18:11,668: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 19:18:11,671: INFO: app]: ID card type selected: PAN
+[2024-06-17 19:18:11,671: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 19:18:11,676: INFO: app]: Face image loaded.
+[2024-06-17 19:18:11,705: INFO: app]: ID card image loaded.
+[2024-06-17 19:18:11,737: INFO: preprocess]: contours are found at, (0, 0, 1280, 805)
+[2024-06-17 19:18:11,738: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 19:18:11,785: INFO: app]: ID card ROI extracted.
+[2024-06-17 19:18:11,785: INFO: face_verification]: Extracting face...
+[2024-06-17 19:18:12,225: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:18:12,234: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:18:12,241: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:18:12,241: INFO: app]: Faces extracted and saved.
+[2024-06-17 19:18:12,241: INFO: face_verification]: Verifying the images....
+[2024-06-17 19:18:12,241: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 19:18:12,243: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 19:18:13,127: INFO: face_verification]: Faces are verified as the same person
+[2024-06-17 19:18:13,127: INFO: app]: Face verification status: successful.
+[2024-06-17 19:18:13,127: INFO: ocr_engine]: Text Extraction Started...
+[2024-06-17 19:18:13,142: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-17 19:18:18,079: INFO: ocr_engine]: Inside Try-Catch...
+[2024-06-17 19:18:29,029: INFO: ocr_engine]: Extracted Text: |HRT|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|AFEPU7751H|74|Name|UPENDRA NATH SINGH|Father' s Name|MOTI|01/08/1972|3426|1|
+[2024-06-17 19:18:29,033: INFO: app]: Text extracted and information parsed from ID card.
+[2024-06-17 19:18:29,170: INFO: sql_connection]: Fetched records successfully from users table.
+[2024-06-17 19:18:29,246: INFO: sql_connection]: Fetched records successfully from users table.
+[2024-06-17 19:18:29,246: INFO: sql_connection]: Duplicate records found.
