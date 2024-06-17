@@ -2521,3 +2521,200 @@
 [2024-06-17 20:23:17,847: INFO: sql_connection]: Fetched records successfully from users table.
 [2024-06-17 20:23:17,900: INFO: sql_connection]: Fetched records successfully from users table.
 [2024-06-17 20:23:17,900: INFO: sql_connection]: Duplicate records found.
+[2024-06-17 20:34:03,342: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-06-17 20:34:21,953: WARNING: module_wrapper]: From c:\Users\upend\Desktop\Data Science Projects\E-KYC\.venv\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-17 20:34:23,127: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-06-17 20:34:23,171: INFO: face_verification]: Extracting face...
+[2024-06-17 20:34:23,741: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:34:24,012: INFO: sql_connection]: Connection Estabilished with database
+[2024-06-17 20:34:24,358: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:34:24,358: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:34:24,360: INFO: app]: ID card type selected: PAN
+[2024-06-17 20:34:24,360: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 20:34:27,107: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:34:27,108: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:34:27,109: INFO: app]: ID card type selected: PAN
+[2024-06-17 20:34:27,110: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 20:34:51,335: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:34:51,337: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:34:51,339: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:34:51,340: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:35:43,232: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:35:43,233: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:35:43,234: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:35:43,235: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:35:43,236: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 20:35:43,236: INFO: app]: Face image loaded.
+[2024-06-17 20:35:43,237: ERROR: app]: No face image uploaded.
+[2024-06-17 20:35:52,655: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:35:52,656: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:35:52,659: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:35:52,659: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:35:52,661: INFO: app]: Face image loaded.
+[2024-06-17 20:35:52,676: INFO: app]: ID card image loaded.
+[2024-06-17 20:35:52,693: INFO: preprocess]: contours are found at, (0, 0, 1080, 788)
+[2024-06-17 20:35:52,693: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 20:35:52,713: INFO: app]: ID card ROI extracted.
+[2024-06-17 20:35:52,714: INFO: face_verification]: Extracting face...
+[2024-06-17 20:35:52,879: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:35:52,883: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:35:52,886: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:35:52,886: INFO: app]: Faces extracted and saved.
+[2024-06-17 20:35:52,887: INFO: face_verification]: Verifying the images....
+[2024-06-17 20:35:52,887: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:35:52,887: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:36:00,110: INFO: face_verification]: Faces are not verified as the same person
+[2024-06-17 20:36:00,121: INFO: app]: Face verification status: failed.
+[2024-06-17 20:36:04,513: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:36:04,515: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:36:04,518: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:36:04,520: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:36:04,522: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 20:36:04,523: INFO: app]: Face image loaded.
+[2024-06-17 20:36:04,525: ERROR: app]: No face image uploaded.
+[2024-06-17 20:36:51,637: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:36:51,638: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:36:51,641: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:36:51,641: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:36:51,643: INFO: app]: Face image loaded.
+[2024-06-17 20:36:51,655: INFO: app]: ID card image loaded.
+[2024-06-17 20:36:51,674: INFO: preprocess]: contours are found at, (0, 0, 1080, 788)
+[2024-06-17 20:36:51,674: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 20:36:51,697: INFO: app]: ID card ROI extracted.
+[2024-06-17 20:36:51,697: INFO: face_verification]: Extracting face...
+[2024-06-17 20:36:51,845: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:36:51,850: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:36:51,853: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:36:51,853: INFO: app]: Faces extracted and saved.
+[2024-06-17 20:36:51,853: INFO: face_verification]: Verifying the images....
+[2024-06-17 20:36:51,855: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:36:51,855: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:36:52,434: INFO: face_verification]: Faces are verified as the same person
+[2024-06-17 20:36:52,434: INFO: app]: Face verification status: successful.
+[2024-06-17 20:36:52,434: INFO: ocr_engine]: Text Extraction Started...
+[2024-06-17 20:36:52,437: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-17 20:36:53,770: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:36:53,771: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:36:53,772: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:36:53,773: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:36:53,774: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 20:36:53,774: INFO: app]: Face image loaded.
+[2024-06-17 20:36:53,776: ERROR: app]: No face image uploaded.
+[2024-06-17 20:36:55,089: INFO: ocr_engine]: Inside Try-Catch...
+[2024-06-17 20:36:59,427: INFO: ocr_engine]: Extracted Text: |HRT TTT|Government of India|Abhishek Singh|DOB|26/07/2004|5y|Male|4205|9308|7552|
+[2024-06-17 20:36:59,429: INFO: app]: Text extracted and information parsed from ID card.
+[2024-06-17 20:36:59,481: INFO: sql_connection]: No records found.
+[2024-06-17 20:36:59,487: INFO: sql_connection]: No records found.
+[2024-06-17 20:36:59,487: INFO: sql_connection]: No duplicate records found.
+[2024-06-17 20:38:57,560: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:38:57,562: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:38:57,565: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:38:57,566: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:39:03,943: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:39:03,944: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:39:03,946: INFO: app]: ID card type selected: PAN
+[2024-06-17 20:39:03,947: INFO: app]: Header set for PAN Card registration.
+[2024-06-17 20:40:55,666: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:40:55,667: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:40:55,670: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:40:55,671: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:02,035: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:41:02,035: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:41:02,037: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:41:02,038: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:02,039: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 20:41:02,040: INFO: app]: Face image loaded.
+[2024-06-17 20:41:02,040: ERROR: app]: No face image uploaded.
+[2024-06-17 20:41:07,068: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:41:07,069: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:41:07,071: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:41:07,071: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:07,073: INFO: app]: Face image loaded.
+[2024-06-17 20:41:07,084: INFO: app]: ID card image loaded.
+[2024-06-17 20:41:07,090: INFO: preprocess]: contours are found at, (0, 0, 1080, 788)
+[2024-06-17 20:41:07,090: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 20:41:07,109: INFO: app]: ID card ROI extracted.
+[2024-06-17 20:41:07,109: INFO: face_verification]: Extracting face...
+[2024-06-17 20:41:07,276: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:41:07,281: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:07,286: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:07,287: INFO: app]: Faces extracted and saved.
+[2024-06-17 20:41:07,287: INFO: face_verification]: Verifying the images....
+[2024-06-17 20:41:07,287: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:07,287: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:41:07,775: INFO: face_verification]: Faces are not verified as the same person
+[2024-06-17 20:41:07,775: INFO: app]: Face verification status: failed.
+[2024-06-17 20:41:13,373: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:41:13,373: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:41:13,378: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:41:13,380: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:13,383: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 20:41:13,385: INFO: app]: Face image loaded.
+[2024-06-17 20:41:13,387: ERROR: app]: No face image uploaded.
+[2024-06-17 20:41:18,006: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:41:18,006: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:41:18,009: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:41:18,010: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:18,011: INFO: app]: Face image loaded.
+[2024-06-17 20:41:18,022: INFO: app]: ID card image loaded.
+[2024-06-17 20:41:18,027: INFO: preprocess]: contours are found at, (0, 0, 1080, 788)
+[2024-06-17 20:41:18,028: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 20:41:18,047: INFO: app]: ID card ROI extracted.
+[2024-06-17 20:41:18,048: INFO: face_verification]: Extracting face...
+[2024-06-17 20:41:18,199: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:41:18,204: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:18,209: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:18,209: INFO: app]: Faces extracted and saved.
+[2024-06-17 20:41:18,209: INFO: face_verification]: Verifying the images....
+[2024-06-17 20:41:18,210: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:18,210: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:41:18,643: INFO: face_verification]: Faces are verified as the same person
+[2024-06-17 20:41:18,643: INFO: app]: Face verification status: successful.
+[2024-06-17 20:41:18,643: INFO: ocr_engine]: Text Extraction Started...
+[2024-06-17 20:41:18,644: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-17 20:41:20,938: INFO: ocr_engine]: Inside Try-Catch...
+[2024-06-17 20:41:24,589: INFO: ocr_engine]: Extracted Text: |HRT TTT|Government of India|Abhishek Singh|DOB|26/07/2004|5y|Male|4205|9308|7552|
+[2024-06-17 20:41:24,591: INFO: app]: Text extracted and information parsed from ID card.
+[2024-06-17 20:41:24,595: INFO: sql_connection]: No records found.
+[2024-06-17 20:41:24,595: INFO: sql_connection]: No records found.
+[2024-06-17 20:41:24,596: INFO: sql_connection]: No duplicate records found.
+[2024-06-17 20:41:24,597: INFO: face_verification]: Retrieving face embeddings from image: data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:24,597: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:28,275: INFO: face_verification]: Face embeddings retrieved successfully
+[2024-06-17 20:41:28,356: INFO: sql_connection]: Inserted records successfully into aadhar table.
+[2024-06-17 20:41:28,357: INFO: app]: New user record inserted: 420593087552
+[2024-06-17 20:41:30,511: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:41:30,514: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:41:30,518: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:41:30,520: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:30,523: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-17 20:41:30,524: INFO: app]: Face image loaded.
+[2024-06-17 20:41:30,525: ERROR: app]: No face image uploaded.
+[2024-06-17 20:41:35,295: INFO: app]: Page layout set to wider configuration.
+[2024-06-17 20:41:35,296: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-17 20:41:35,297: INFO: app]: ID card type selected: AADHAR
+[2024-06-17 20:41:35,298: INFO: app]: Header set for Aadhar Card registration.
+[2024-06-17 20:41:35,300: INFO: app]: Face image loaded.
+[2024-06-17 20:41:35,311: INFO: app]: ID card image loaded.
+[2024-06-17 20:41:35,316: INFO: preprocess]: contours are found at, (0, 0, 1080, 788)
+[2024-06-17 20:41:35,316: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2024-06-17 20:41:35,339: INFO: app]: ID card ROI extracted.
+[2024-06-17 20:41:35,339: INFO: face_verification]: Extracting face...
+[2024-06-17 20:41:35,493: INFO: face_verification]: Extracted face saved at: C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:41:35,497: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:35,500: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:35,501: INFO: app]: Faces extracted and saved.
+[2024-06-17 20:41:35,501: INFO: face_verification]: Verifying the images....
+[2024-06-17 20:41:35,502: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-06-17 20:41:35,502: INFO: utils]: File exists at C:\Users\upend\Desktop\Data Science Projects\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2024-06-17 20:41:35,988: INFO: face_verification]: Faces are verified as the same person
+[2024-06-17 20:41:35,988: INFO: app]: Face verification status: successful.
+[2024-06-17 20:41:35,990: INFO: ocr_engine]: Text Extraction Started...
+[2024-06-17 20:41:35,990: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-17 20:41:38,193: INFO: ocr_engine]: Inside Try-Catch...
+[2024-06-17 20:41:41,912: INFO: ocr_engine]: Extracted Text: |HRT TTT|Government of India|Abhishek Singh|DOB|26/07/2004|5y|Male|4205|9308|7552|
+[2024-06-17 20:41:41,914: INFO: app]: Text extracted and information parsed from ID card.
+[2024-06-17 20:41:41,932: INFO: sql_connection]: Fetched records successfully from aadhar table.
+[2024-06-17 20:41:41,986: INFO: sql_connection]: Fetched records successfully from aadhar table.
+[2024-06-17 20:41:41,987: INFO: sql_connection]: Duplicate records found.

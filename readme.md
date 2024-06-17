@@ -20,6 +20,13 @@ Herein, I have uploaded an ID card of my dad and an image of myself. As a result
 3. **Database Interaction**: The extracted text and face embeddings are checked for duplicacy before being inserted into the database. If the user is already registered, the SQL query is not executed, and the fetched result is returned.
 4. **Face Embeddings**: The app uses FaceNet from DeepFace to retrieve face embeddings, which are also stored in the database.
 
+## Full Workflow of web app
+
+![E-KYC-FACE VERIFICATION DEMO](https://github.com/abhishekiiitbh2903/E-KYC-/blob/main/assets/ekyc%20full%20workflow.gif)
+
+I first uploaded my Aadhar ID and a photo of my dad. The app flagged a warning as face verification failed, and subsequent code didn't execute. Then, I uploaded my own face image, the verification succeeded, and my data was inserted into the database. To check for duplicacy and confirm my data was correctly inserted, I reuploaded my face image. The response indicated that a person with my ID already exists in the database, validating proper database handling and ensuring no data duplicacy.
+
+
 ### Technologies Used
 
 - **Computer Vision**: For face detection and verification.
