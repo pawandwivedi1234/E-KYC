@@ -37,6 +37,8 @@ except mysql.connector.Error as err:
     logging.error(f"Error connecting to the database: {err}")
     raise
 
+
+
 def insert_records(text_info):
     try:
         sql = "INSERT INTO users(id, name, father_name, dob, id_type, embedding) VALUES (%s, %s, %s, %s, %s, %s)"
@@ -128,5 +130,4 @@ def check_duplicacy_aadhar(text_info):
     except Exception as e:
         logging.error(f"Error checking duplicacy: {e}")
         return False
-
 

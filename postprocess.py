@@ -118,7 +118,7 @@ def extract_information1(data_string):
     # Split the data string into a list of words based on "|"
     updated_data_string = data_string.replace(".", "")
     words = [word.strip() for word in updated_data_string.split("|") if len(word.strip()) > 2]
-    print(words)
+    # print(words)
     extracted_info = {
         "ID": "",
         "Name": "",
@@ -144,7 +144,7 @@ def extract_information1(data_string):
         if id_number_index1!=-1:
             extracted_info["ID"] = words[id_number_index1]
         else:
-          print(id_number_index2)
+        #   print(id_number_index2)
           try:
             extracted_info["ID"] = words[id_number_index2] + words[id_number_index2 + 1] + words[id_number_index2 + 2]
           except IndexError:

@@ -7,6 +7,7 @@ from postprocess import extract_information,extract_information1
 from face_verification import detect_and_extract_face, deepface_face_comparison, get_face_embeddings
 from sql_connection import insert_records, fetch_records, check_duplicacy,insert_records_aadhar,fetch_records_aadhar,check_duplicacy_aadhar
 import toml
+import hashlib
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s]: %(message)s"
 log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
@@ -17,6 +18,11 @@ db_config = config.get("database", {})
 
 db_user = db_config.get("user")
 db_password = db_config.get("password")
+
+def hash_id(id_value):
+    hash_object = hashlib.sha256(id_value.encode())
+    hashed_id = hash_object.hexdigest()
+    return hashed_id
 
 # Set wider page layout
 def wider_page():
@@ -86,8 +92,11 @@ def main_content(image_file, face_image_file,option):
             if is_face_verified:
                 extracted_text = extract_text(image_roi)
                 text_info = extract_information(extracted_text) if option == "PAN" else extract_information1(extracted_text)
-                print(extracted_text)
+                # print(extracted_text)
                 logging.info("Text extracted and information parsed from ID card.")
+                # print("Before",text_info['ID'])
+                text_info['ID']=hash_id(text_info['ID'])
+                # print("After",text_info['ID'])
                 records = fetch_records(text_info) if option=="PAN" else fetch_records_aadhar(text_info)
                 if records.shape[0] > 0:
                     st.write(records.shape)
@@ -96,6 +105,7 @@ def main_content(image_file, face_image_file,option):
                 if is_duplicate:
                     st.write(f"User already present with ID {text_info['ID']}")
                 else: 
+                    # text_info["ID"]=hash_id(text_info["ID"])
                     st.write(text_info)
                     text_info['DOB'] = text_info['DOB'].strftime('%Y-%m-%d')
                     text_info['Embedding'] =  get_face_embeddings(face_image_path1)
