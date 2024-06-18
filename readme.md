@@ -42,9 +42,85 @@ I first uploaded my Aadhar ID and a photo of my dad. The app flagged a warning a
 1. **Live Face Detection**: Instead of taking a face image from the user, the app will detect the face image live using the device's camera.
 2. **Data Privacy**: Currently, original values are stored in the database. In future updates, sensitive data (like original IDs) will be hashed before storage to ensure privacy even if the database is compromised.
 
+## Prerequisites
+
+Ensure you have the following installed:
+- Python 12.0
+- MySQL server
+
+## Setup Instructions
+
+1. **Clone the Repository**:
+    ```sh
+    https://github.com/abhishekiiitbh2903/E-KYC-.git
+    cd E-KYC-
+    ```
+
+2. **Create a Virtual Environment**:
+    ```sh
+    python -m venv .venv 
+    ```
+
+3. **Activate the Virtual Environment**:
+    - On Windows:
+      ```sh
+      .\.venv\Scripts\activate
+      ```
+    - On macOS/Linux:
+      ```sh
+      source .venv/bin/activate
+      ```
+
+4. **Install the Required Packages**:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+5. **Create the `config.toml` File**:
+    In the root directory of the project (same directory as `app.py`), create a file named `config.toml` and add the following content to it:
+
+    ```toml
+    [database]
+    user = "your_username"
+    password = "your_password"
+    host = "localhost"
+    database = "your_database_name"
+    ```
+
+    Replace `"your_username"`, `"your_password"`, and `"your_database_name"` with your actual MySQL credentials.
+
+6. **Run the Application**:
+    ```sh
+    streamlit run app.py
+    ```
+
+## Important Notes
+
+- **Security**: Ensure that your `config.toml` file is included in the `.gitignore` file to prevent sensitive information from being uploaded to any public repository.
+
+- **.gitignore**: The `.gitignore` file should include the following lines to ignore the virtual environment and configuration files:
+
+    ```plaintext
+    # Ignore virtual environment directory
+    .venv/
+    
+    # Ignore config.toml file
+    config.toml
+    ```
+
 ## Logging
 
-Proper logging has been maintained throughout the project to facilitate easier debugging and monitoring.
+The application logs various events and errors. Logs are stored in the `logs` directory. Ensure this directory exists or create it manually if it does not.
+Proper logging has been maintained throughout the project from my end to facilitate easier debugging and monitoring.
+Logging Directory hasn't been uploaded in order to ensure data breach of my system ..
+
+## Troubleshooting
+
+- **Database Connection Issues**: Ensure your MySQL server is running and the credentials in `config.toml` are correct.
+- **Dependencies**: If you encounter issues with missing packages, ensure all required packages are installed by running `pip install -r requirements.txt`.
+
+Feel free to open an issue if you encounter any problems or have questions about the setup process.
+
 
 ## Author
 
