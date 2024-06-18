@@ -110,9 +110,12 @@ Ensure you have the following installed:
 
 ## Logging
 
-The application logs various events and errors. Logs are stored in the `logs` directory. Ensure this directory exists or create it manually if it does not.
-Proper logging has been maintained throughout the project from my end to facilitate easier debugging and monitoring.
-Logging Directory hasn't been uploaded in order to ensure data breach of my system ..
+The application logs various events and errors for easier debugging and monitoring. Logs are stored in the `logs` directory. Ensure this directory exists in your local setup or create it manually if it does not exist.
+
+**Note**: The `logs` directory has not been included in the repository to prevent accidental exposure of sensitive information or potential data breaches from logs related to your local system.
+
+Proper logging practices have been implemented throughout the project to ensure comprehensive error tracking and system monitoring.
+
 
 ## Troubleshooting
 
