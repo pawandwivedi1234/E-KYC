@@ -128,7 +128,7 @@ Feel free to open an issue if you encounter any problems or have questions about
 
 ## Author
 
-This project is authored by Abhishek Singh, a final year B.Tech CSE undergraduate at IIIT Bhubaneswar. You can reach me at abhishekrathore1806@gmail.com.
+This project is authored by Abhishek Singh, a final year B.Tech CSE undergraduate at IIIT Bhagalpur. You can reach me at abhishekrathore1806@gmail.com.
 
 ## Contributing
 
