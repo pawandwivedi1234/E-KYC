@@ -40,9 +40,8 @@ I first uploaded my Aadhar ID and a photo of my dad. The app flagged a warning a
 ## Upcoming Improvements
 
 1. **Live Face Detection**: Instead of taking a face image from the user, the app will detect the face image live using the device's camera.
-2. **Data Privacy**: Currently, original values are stored in the database. In future updates, sensitive data (like original IDs) will be hashed before storage to ensure privacy even if the database is compromised. 
-
-**COMPLETED**
+2. **Data Privacy**: Currently, original values are stored in the database. In future updates, sensitive data (like original IDs) will be hashed before storage to ensure privacy even if the database is compromised.
+**[COMPLETED]**
 
 ## Prerequisites
 
