@@ -2,6 +2,7 @@ import mysql.connector
 import pandas as pd
 import logging
 import os 
+import toml
 
 # Logging configuration
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s]: %(message)s"
@@ -9,17 +10,32 @@ log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
 logging.basicConfig(filename=os.path.join(log_dir, "ekyc_logs.log"), level=logging.INFO, format=logging_str, filemode="a")
 
+# Load database configuration from config.toml
+config = toml.load("config.toml")
+db_config = config.get("database", {})
+
+db_user = db_config.get("user")
+db_password = db_config.get("password")
+db_host = db_config.get("host", "localhost")
+db_name = db_config.get("database")
+
+if not db_user or not db_password:
+    logging.error("Database user or password not found in config.toml")
+    raise ValueError("Database user or password not found in config.toml")
+
 # Establish a connection to the MySQL server
-mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="Ab@12345",
-    database="ekyc"
-)
-
-
-mycursor=mydb.cursor()
-logging.info("Connection Estabilished with database")
+try:
+    mydb = mysql.connector.connect(
+        host=db_host,
+        user=db_user,
+        password=db_password,
+        database=db_name
+    )
+    mycursor = mydb.cursor()
+    logging.info("Connection established with database")
+except mysql.connector.Error as err:
+    logging.error(f"Error connecting to the database: {err}")
+    raise
 
 def insert_records(text_info):
     try:

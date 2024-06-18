@@ -6,12 +6,17 @@ from ocr_engine import extract_text
 from postprocess import extract_information,extract_information1
 from face_verification import detect_and_extract_face, deepface_face_comparison, get_face_embeddings
 from sql_connection import insert_records, fetch_records, check_duplicacy,insert_records_aadhar,fetch_records_aadhar,check_duplicacy_aadhar
-
+import toml
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s]: %(message)s"
 log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
 logging.basicConfig(filename=os.path.join(log_dir,"ekyc_logs.log"), level=logging.INFO, format=logging_str, filemode="a")
 
+config = toml.load("config.toml")
+db_config = config.get("database", {})
+
+db_user = db_config.get("user")
+db_password = db_config.get("password")
 
 # Set wider page layout
 def wider_page():
@@ -114,7 +119,7 @@ def main():
     conn = st.connection(
     "local_db",
     type="sql",
-    url="mysql://root:Ab@12345@localhost:3306/ekyc"
+    url="mysql://db_user:db_password@localhost:3306/ekyc"
 )
     wider_page()
     set_custom_theme()
