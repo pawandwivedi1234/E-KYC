@@ -1,0 +1,5 @@
+[database]
+user = "root"
+password = "Vijay@1234"
+host = "localhost"
+database = "PAWAN"

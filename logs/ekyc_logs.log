@@ -1,0 +1,474 @@
+[2025-07-24 14:19:19,573: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:21:19,980: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:21:56,099: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:22:05,293: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:24:53,490: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:24:56,639: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:26:04,476: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:26:06,628: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:26:10,458: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:26:10,474: INFO: face_verification]: Extracting face...
+[2025-07-24 14:34:38,831: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:34:41,269: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:34:45,188: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:34:45,203: INFO: face_verification]: Extracting face...
+[2025-07-24 14:45:10,441: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:45:12,885: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:45:16,953: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:45:16,967: INFO: face_verification]: Extracting face...
+[2025-07-24 14:46:42,258: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:46:44,743: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:46:48,784: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:46:48,802: INFO: face_verification]: Extracting face...
+[2025-07-24 14:50:43,080: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:50:45,463: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:50:49,374: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:50:49,389: INFO: face_verification]: Extracting face...
+[2025-07-24 14:53:48,835: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:53:51,259: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:53:55,175: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:53:55,191: INFO: face_verification]: Extracting face...
+[2025-07-24 14:56:12,050: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:56:14,463: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 14:56:18,378: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 14:56:18,393: INFO: face_verification]: Extracting face...
+[2025-07-24 14:56:18,853: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 15:02:36,090: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:02:38,492: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 15:02:42,392: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:02:42,408: INFO: face_verification]: Extracting face...
+[2025-07-24 15:02:42,669: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 15:19:20,598: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:19:22,968: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 15:19:26,862: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:19:26,879: INFO: face_verification]: Extracting face...
+[2025-07-24 15:19:27,142: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 15:27:40,081: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:27:42,536: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 15:27:46,441: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:27:46,456: INFO: face_verification]: Extracting face...
+[2025-07-24 15:27:46,708: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 15:28:42,612: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:28:44,927: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 15:28:48,788: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:28:48,803: INFO: face_verification]: Extracting face...
+[2025-07-24 15:28:49,034: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 15:40:59,581: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:41:02,842: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 15:41:07,598: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 15:41:07,614: INFO: face_verification]: Extracting face...
+[2025-07-24 15:41:07,936: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 15:41:07,995: INFO: sql_connection]: Connection established with database using PyMySQL.
+[2025-07-24 16:28:00,839: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:28:03,506: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 16:28:08,293: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:28:08,314: INFO: face_verification]: Extracting face...
+[2025-07-24 16:28:08,596: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:28:38,578: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:28:40,593: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 16:28:44,332: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:28:44,342: INFO: face_verification]: Extracting face...
+[2025-07-24 16:28:44,555: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:32:01,368: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:32:03,809: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 16:32:07,849: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:32:07,864: INFO: face_verification]: Extracting face...
+[2025-07-24 16:32:08,105: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:32:08,205: INFO: sql_connection]: Connection established with database
+[2025-07-24 16:32:09,565: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:32:09,565: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:32:09,566: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:32:09,566: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:33:34,301: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:33:36,822: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 16:33:40,801: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:33:40,818: INFO: face_verification]: Extracting face...
+[2025-07-24 16:33:41,038: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:33:41,096: INFO: sql_connection]: Connection established with database
+[2025-07-24 16:33:41,326: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:33:41,326: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:33:41,327: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:33:41,327: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:37:37,463: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:37:37,464: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:37:37,465: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:37:37,465: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:37:37,465: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-07-24 16:37:37,466: INFO: app]: Face image loaded.
+[2025-07-24 16:37:37,466: ERROR: app]: No face image uploaded.
+[2025-07-24 16:38:14,506: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:38:14,506: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:38:14,507: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:38:14,508: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:38:14,520: INFO: app]: Face image loaded.
+[2025-07-24 16:38:14,536: INFO: app]: ID card image loaded.
+[2025-07-24 16:38:14,548: INFO: preprocess]: contours are found at, (45, 32, 984, 523)
+[2025-07-24 16:38:14,548: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 16:38:14,552: INFO: app]: ID card ROI extracted.
+[2025-07-24 16:38:14,552: INFO: face_verification]: Extracting face...
+[2025-07-24 16:38:14,608: WARNING: face_verification]: No face detected in the image
+[2025-07-24 16:38:14,609: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:38:14,609: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:38:14,609: INFO: app]: Faces extracted and saved.
+[2025-07-24 16:38:14,609: INFO: face_verification]: Verifying the images....
+[2025-07-24 16:38:14,609: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:07,098: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:44:09,501: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 16:44:13,514: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:44:13,525: INFO: face_verification]: Extracting face...
+[2025-07-24 16:44:13,750: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:44:13,835: INFO: sql_connection]: Connection established with database
+[2025-07-24 16:44:14,071: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:44:14,072: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:44:14,072: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:44:14,072: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:44:14,072: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:44:14,073: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:44:14,073: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:44:14,073: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:44:35,940: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:44:35,940: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:44:35,941: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:44:35,942: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:44:35,942: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-07-24 16:44:35,942: INFO: app]: Face image loaded.
+[2025-07-24 16:44:35,943: ERROR: app]: No face image uploaded.
+[2025-07-24 16:44:45,627: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:44:45,628: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:44:45,629: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:44:45,629: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:44:45,630: INFO: app]: Face image loaded.
+[2025-07-24 16:44:45,632: INFO: app]: ID card image loaded.
+[2025-07-24 16:44:45,634: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2025-07-24 16:44:45,634: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 16:44:45,638: INFO: app]: ID card ROI extracted.
+[2025-07-24 16:44:45,638: INFO: face_verification]: Extracting face...
+[2025-07-24 16:44:45,672: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:44:45,673: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:45,673: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:45,673: INFO: app]: Faces extracted and saved.
+[2025-07-24 16:44:45,673: INFO: face_verification]: Verifying the images....
+[2025-07-24 16:44:45,673: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:45,673: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:44:59,763: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:44:59,763: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:44:59,764: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:44:59,765: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:44:59,766: INFO: app]: Face image loaded.
+[2025-07-24 16:44:59,768: INFO: app]: ID card image loaded.
+[2025-07-24 16:44:59,769: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2025-07-24 16:44:59,770: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 16:44:59,772: INFO: app]: ID card ROI extracted.
+[2025-07-24 16:44:59,772: INFO: face_verification]: Extracting face...
+[2025-07-24 16:44:59,807: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:44:59,807: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:59,807: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:59,807: INFO: app]: Faces extracted and saved.
+[2025-07-24 16:44:59,807: INFO: face_verification]: Verifying the images....
+[2025-07-24 16:44:59,808: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:44:59,808: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:45:05,966: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:45:05,967: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:45:05,968: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:45:05,968: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:45:05,970: INFO: app]: Face image loaded.
+[2025-07-24 16:45:05,972: INFO: app]: ID card image loaded.
+[2025-07-24 16:45:05,973: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2025-07-24 16:45:05,974: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 16:45:05,976: INFO: app]: ID card ROI extracted.
+[2025-07-24 16:45:05,977: INFO: face_verification]: Extracting face...
+[2025-07-24 16:45:06,012: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:45:06,013: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:45:06,013: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:45:06,013: INFO: app]: Faces extracted and saved.
+[2025-07-24 16:45:06,013: INFO: face_verification]: Verifying the images....
+[2025-07-24 16:45:06,013: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:45:06,013: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:49:23,586: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:49:25,886: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-24 16:49:29,834: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-24 16:49:29,845: INFO: face_verification]: Extracting face...
+[2025-07-24 16:49:30,057: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:49:30,143: INFO: sql_connection]: Connection established with database
+[2025-07-24 16:49:30,383: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:49:30,383: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:49:30,384: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:49:30,384: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:50:05,490: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:50:05,490: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:50:05,491: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:50:05,491: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:50:05,492: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-07-24 16:50:05,492: INFO: app]: Face image loaded.
+[2025-07-24 16:50:05,493: ERROR: app]: No face image uploaded.
+[2025-07-24 16:50:19,926: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:50:19,927: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:50:19,928: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:50:19,928: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:50:19,929: INFO: app]: Face image loaded.
+[2025-07-24 16:50:19,933: INFO: app]: ID card image loaded.
+[2025-07-24 16:50:19,938: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 16:50:19,938: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 16:50:19,940: INFO: app]: ID card ROI extracted.
+[2025-07-24 16:50:19,940: INFO: face_verification]: Extracting face...
+[2025-07-24 16:50:19,981: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:50:19,981: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:50:19,981: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:50:19,982: INFO: app]: Faces extracted and saved.
+[2025-07-24 16:50:19,982: INFO: face_verification]: Verifying the images....
+[2025-07-24 16:50:19,982: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:50:19,982: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:52:33,594: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 16:52:33,595: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 16:52:33,595: INFO: app]: ID card type selected: PAN
+[2025-07-24 16:52:33,595: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 16:52:33,601: INFO: app]: Face image loaded.
+[2025-07-24 16:52:33,604: INFO: app]: ID card image loaded.
+[2025-07-24 16:52:33,614: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 16:52:33,614: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 16:52:33,617: INFO: app]: ID card ROI extracted.
+[2025-07-24 16:52:33,617: INFO: face_verification]: Extracting face...
+[2025-07-24 16:52:33,661: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 16:52:33,662: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:52:33,662: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:52:33,662: INFO: app]: Faces extracted and saved.
+[2025-07-24 16:52:33,662: INFO: face_verification]: Verifying the images....
+[2025-07-24 16:52:33,662: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 16:52:33,662: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:02:13,677: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 17:02:13,678: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 17:02:13,678: INFO: app]: ID card type selected: PAN
+[2025-07-24 17:02:13,678: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 17:02:13,688: INFO: app]: Face image loaded.
+[2025-07-24 17:02:13,691: INFO: app]: ID card image loaded.
+[2025-07-24 17:02:13,702: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 17:02:13,702: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 17:02:13,704: INFO: app]: ID card ROI extracted.
+[2025-07-24 17:02:13,704: INFO: face_verification]: Extracting face...
+[2025-07-24 17:02:13,749: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:02:13,749: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:02:13,750: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:02:13,753: INFO: app]: Faces extracted and saved.
+[2025-07-24 17:02:13,753: INFO: face_verification]: Verifying the images....
+[2025-07-24 17:02:13,753: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:02:13,753: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:06:43,107: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 17:06:43,108: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 17:06:43,109: INFO: app]: ID card type selected: PAN
+[2025-07-24 17:06:43,109: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 17:06:43,120: INFO: app]: Face image loaded.
+[2025-07-24 17:06:43,123: INFO: app]: ID card image loaded.
+[2025-07-24 17:06:43,137: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 17:06:43,137: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 17:06:43,142: INFO: app]: ID card ROI extracted.
+[2025-07-24 17:06:43,142: INFO: face_verification]: Extracting face...
+[2025-07-24 17:06:43,206: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:06:43,208: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:06:43,208: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:06:43,208: INFO: app]: Faces extracted and saved.
+[2025-07-24 17:06:43,208: INFO: face_verification]: Verifying the images....
+[2025-07-24 17:06:43,208: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:06:43,208: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:12:19,294: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 17:12:19,295: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 17:12:19,295: INFO: app]: ID card type selected: PAN
+[2025-07-24 17:12:19,296: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 17:12:19,304: INFO: app]: Face image loaded.
+[2025-07-24 17:12:19,307: INFO: app]: ID card image loaded.
+[2025-07-24 17:12:19,321: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 17:12:19,321: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 17:12:19,324: INFO: app]: ID card ROI extracted.
+[2025-07-24 17:12:19,324: INFO: face_verification]: Extracting face...
+[2025-07-24 17:12:19,401: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:12:19,402: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:12:19,402: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:12:19,402: INFO: app]: Faces extracted and saved.
+[2025-07-24 17:12:19,402: INFO: face_verification]: Verifying the images....
+[2025-07-24 17:12:19,402: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:12:19,402: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:20:36,979: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 17:20:36,980: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 17:20:36,980: INFO: app]: ID card type selected: PAN
+[2025-07-24 17:20:36,981: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 17:20:36,989: INFO: app]: Face image loaded.
+[2025-07-24 17:20:36,992: INFO: app]: ID card image loaded.
+[2025-07-24 17:20:37,001: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 17:20:37,001: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 17:20:37,004: INFO: app]: ID card ROI extracted.
+[2025-07-24 17:20:37,004: INFO: face_verification]: Extracting face...
+[2025-07-24 17:20:37,046: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:20:37,047: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:20:37,048: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:20:37,048: INFO: app]: Faces extracted and saved.
+[2025-07-24 17:20:37,048: INFO: face_verification]: Verifying the images....
+[2025-07-24 17:20:37,048: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:20:37,048: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:21:04,537: INFO: app]: Page layout set to wider configuration.
+[2025-07-24 17:21:04,537: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-24 17:21:04,538: INFO: app]: ID card type selected: PAN
+[2025-07-24 17:21:04,538: INFO: app]: Header set for PAN Card registration.
+[2025-07-24 17:21:04,539: INFO: app]: Face image loaded.
+[2025-07-24 17:21:04,542: INFO: app]: ID card image loaded.
+[2025-07-24 17:21:04,546: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-24 17:21:04,546: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-24 17:21:04,549: INFO: app]: ID card ROI extracted.
+[2025-07-24 17:21:04,549: INFO: face_verification]: Extracting face...
+[2025-07-24 17:21:04,590: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-24 17:21:04,591: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:21:04,591: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:21:04,591: INFO: app]: Faces extracted and saved.
+[2025-07-24 17:21:04,591: INFO: face_verification]: Verifying the images....
+[2025-07-24 17:21:04,591: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-24 17:21:04,591: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:43:15,438: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 12:43:17,993: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 12:43:22,111: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 12:43:22,125: INFO: face_verification]: Extracting face...
+[2025-07-25 12:43:22,426: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:43:22,532: INFO: sql_connection]: Connection established with database
+[2025-07-25 12:43:22,776: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:43:22,777: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:43:22,777: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:43:22,777: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:43:38,120: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:43:38,120: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:43:38,121: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:43:38,122: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:43:38,123: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-07-25 12:43:38,123: INFO: app]: Face image loaded.
+[2025-07-25 12:43:38,123: ERROR: app]: No face image uploaded.
+[2025-07-25 12:43:48,017: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:43:48,017: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:43:48,018: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:43:48,019: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:43:48,020: INFO: app]: Face image loaded.
+[2025-07-25 12:43:48,023: INFO: app]: ID card image loaded.
+[2025-07-25 12:43:48,035: INFO: preprocess]: contours are found at, (247, 129, 609, 390)
+[2025-07-25 12:43:48,035: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 12:43:48,037: INFO: app]: ID card ROI extracted.
+[2025-07-25 12:43:48,037: INFO: face_verification]: Extracting face...
+[2025-07-25 12:43:48,075: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:43:48,075: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-25 12:43:48,075: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-07-25 12:43:48,075: INFO: app]: Faces extracted and saved.
+[2025-07-25 12:43:48,075: INFO: face_verification]: Verifying the images....
+[2025-07-25 12:43:48,075: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-07-25 12:43:48,075: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:56:01,022: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 12:56:03,530: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 12:56:07,699: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 12:56:07,713: INFO: face_verification]: Extracting face...
+[2025-07-25 12:56:08,252: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:56:08,373: INFO: sql_connection]: Connection established with database
+[2025-07-25 12:56:08,647: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:56:08,647: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:56:08,647: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:56:08,648: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:56:34,773: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 12:56:36,807: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 12:56:40,114: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 12:56:40,124: INFO: face_verification]: Extracting face...
+[2025-07-25 12:56:40,329: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:56:40,377: INFO: sql_connection]: Connection established with database
+[2025-07-25 12:56:40,598: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:56:40,598: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:56:40,599: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:56:40,599: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:56:53,658: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:56:53,658: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:56:53,659: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:56:53,660: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:56:53,661: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-07-25 12:56:53,661: INFO: app]: Face image loaded.
+[2025-07-25 12:56:53,661: ERROR: app]: No face image uploaded.
+[2025-07-25 12:57:02,815: INFO: app]: Page layout set to wider configuration.
+[2025-07-25 12:57:02,816: INFO: app]: Custom theme applied to Streamlit app.
+[2025-07-25 12:57:02,817: INFO: app]: ID card type selected: PAN
+[2025-07-25 12:57:02,817: INFO: app]: Header set for PAN Card registration.
+[2025-07-25 12:57:02,819: INFO: app]: Face image loaded.
+[2025-07-25 12:57:02,826: INFO: app]: ID card image loaded.
+[2025-07-25 12:57:02,832: INFO: preprocess]: contours are found at, (0, 0, 519, 341)
+[2025-07-25 12:57:02,832: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 12:57:02,833: INFO: app]: ID card ROI extracted.
+[2025-07-25 12:57:02,833: INFO: face_verification]: Extracting face...
+[2025-07-25 12:57:02,870: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 12:57:02,871: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 12:57:02,871: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 12:57:02,871: INFO: app]: Faces extracted and saved.
+[2025-07-25 12:57:02,871: INFO: face_verification]: Verifying the images....
+[2025-07-25 12:57:02,871: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 12:57:02,871: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:46:55,673: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 13:46:58,193: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 13:47:02,485: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 13:47:02,586: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 13:47:47,661: INFO: preprocess]: contours are found at, (0, 0, 736, 552)
+[2025-07-25 13:47:47,662: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 13:47:47,666: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 13:47:47,824: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:47:47,824: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:47:47,824: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:47:47,824: INFO: face_verification]: Starting face verification...
+[2025-07-25 13:47:47,824: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:47:47,824: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:47:49,263: ERROR: face_verification]: Exception during DeepFace verification: Exception while processing img2_path
+[2025-07-25 13:49:47,152: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 13:49:49,519: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 13:49:53,579: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 13:49:53,637: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 13:50:41,962: INFO: preprocess]: contours are found at, (0, 0, 519, 341)
+[2025-07-25 13:50:41,962: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 13:50:41,965: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 13:50:42,106: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:50:42,106: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:50:42,110: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:50:42,110: INFO: face_verification]: Starting face verification...
+[2025-07-25 13:50:42,110: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:50:42,110: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:50:43,955: ERROR: face_verification]: Exception during DeepFace verification: Exception while processing img2_path
+[2025-07-25 13:51:34,907: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 13:51:37,385: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 13:51:41,474: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 13:51:41,563: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 13:52:18,975: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 13:52:18,975: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 13:52:18,979: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 13:52:19,128: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:52:19,128: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:52:19,128: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:52:19,129: INFO: face_verification]: Starting face verification...
+[2025-07-25 13:52:19,129: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:52:19,129: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:52:20,760: INFO: face_verification]: Face verification successful.
+[2025-07-25 13:52:20,761: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 13:52:20,770: WARNING: easyocr]: Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+[2025-07-25 13:52:36,876: INFO: easyocr]: Download complete
+[2025-07-25 13:52:36,877: WARNING: easyocr]: Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+[2025-07-25 13:52:39,918: INFO: easyocr]: Download complete.
+[2025-07-25 13:52:42,504: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 13:52:46,208: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 13:52:46,211: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:52:46,211: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:53:01,220: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 13:53:01,220: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 13:53:01,225: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 13:53:01,272: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:53:01,273: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:53:01,274: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:53:01,274: INFO: face_verification]: Starting face verification...
+[2025-07-25 13:53:01,274: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:53:01,274: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 13:53:01,626: INFO: face_verification]: Face verification successful.
+[2025-07-25 13:53:01,627: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 13:53:04,128: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 13:53:04,497: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 13:53:04,497: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:53:04,497: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 13:53:10,311: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 13:53:10,362: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 13:53:10,367: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 13:53:10,368: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 13:53:29,929: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 13:53:29,931: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 13:53:29,931: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 13:53:29,933: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
