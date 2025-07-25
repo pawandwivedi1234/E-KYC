@@ -472,3 +472,167 @@
 [2025-07-25 13:53:29,931: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
 [2025-07-25 13:53:29,931: INFO: sql_connection]: check_duplicacy_aadhar: False
 [2025-07-25 13:53:29,933: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 14:11:02,871: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 14:11:05,418: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 14:11:09,488: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 14:11:09,593: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 14:11:39,813: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 14:11:39,813: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 14:11:39,818: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 14:11:39,998: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 14:11:39,998: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:11:39,998: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:11:39,998: INFO: face_verification]: Starting face verification...
+[2025-07-25 14:11:39,998: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:11:39,998: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 14:11:41,823: INFO: face_verification]: Face verification successful.
+[2025-07-25 14:11:41,823: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 14:11:44,355: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 14:11:45,189: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 14:11:45,191: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:11:45,191: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:11:46,450: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 14:11:46,505: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 14:11:46,510: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 14:11:46,513: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 14:37:38,997: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 14:37:41,578: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 14:37:45,667: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 14:37:45,760: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 14:56:14,989: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 14:56:17,452: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 14:56:21,491: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 14:56:21,582: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 14:56:41,387: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 14:56:41,388: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 14:56:41,390: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 14:56:41,531: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 14:56:41,531: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:41,532: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:41,532: INFO: face_verification]: Starting face verification...
+[2025-07-25 14:56:41,532: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:41,532: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 14:56:43,083: INFO: face_verification]: Face verification successful.
+[2025-07-25 14:56:43,083: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 14:56:45,554: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 14:56:46,626: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 14:56:46,627: ERROR: app]: Error during main processing: 'str' object has no attribute 'strftime'
+[2025-07-25 14:56:47,987: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 14:56:47,987: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 14:56:47,990: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 14:56:48,041: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 14:56:48,042: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:48,043: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:48,043: INFO: face_verification]: Starting face verification...
+[2025-07-25 14:56:48,043: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:48,043: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 14:56:48,412: INFO: face_verification]: Face verification successful.
+[2025-07-25 14:56:48,412: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 14:56:50,792: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 14:56:51,135: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 14:56:51,137: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:51,138: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 14:56:52,457: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 14:56:52,500: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 14:56:52,505: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 14:56:52,506: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 15:10:12,613: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 15:10:12,614: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 15:10:12,617: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 15:10:12,677: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 15:10:12,680: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 15:10:12,680: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 15:10:12,680: INFO: face_verification]: Starting face verification...
+[2025-07-25 15:10:12,680: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 15:10:12,680: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 15:10:13,145: INFO: face_verification]: Face verification successful.
+[2025-07-25 15:10:13,145: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 15:10:15,785: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 15:10:16,189: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 15:10:16,192: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 15:10:16,192: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 15:10:16,342: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 15:10:16,379: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 15:10:16,385: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 15:10:16,386: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 15:25:50,415: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 15:25:53,473: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 15:25:57,653: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 15:25:57,768: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 15:50:52,101: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 15:50:54,616: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 15:50:58,659: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 15:50:58,751: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 15:58:49,357: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 15:58:51,945: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 15:58:56,059: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 15:58:56,150: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 16:03:23,311: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:03:25,781: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 16:03:29,794: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:03:29,896: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 16:03:49,965: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 16:03:49,965: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 16:03:49,969: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 16:03:50,133: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 16:03:50,133: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:03:50,134: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:03:50,134: INFO: face_verification]: Starting face verification...
+[2025-07-25 16:03:50,134: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:03:50,134: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 16:03:51,682: INFO: face_verification]: Face verification successful.
+[2025-07-25 16:03:51,683: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 16:03:54,139: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 16:03:55,011: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 16:03:55,015: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:03:55,015: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:03:56,336: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 16:03:56,388: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 16:03:56,392: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 16:03:56,394: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 16:08:59,505: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:09:02,011: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-07-25 16:09:06,116: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:09:06,192: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 16:09:20,229: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 16:09:20,229: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 16:09:20,232: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 16:09:20,377: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 16:09:20,378: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:09:20,378: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:09:20,378: INFO: face_verification]: Starting face verification...
+[2025-07-25 16:09:20,378: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:09:20,378: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 16:09:21,962: INFO: face_verification]: Face verification successful.
+[2025-07-25 16:09:21,965: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 16:09:24,400: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 16:09:25,246: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 16:09:25,248: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:09:25,248: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:09:26,534: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 16:09:26,592: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 16:09:26,596: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 16:09:26,598: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 16:27:52,636: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:36:29,751: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:36:42,552: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-07-25 16:36:42,607: INFO: sql_connection]: Connected to MySQL database successfully.
+[2025-07-25 16:36:57,401: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-07-25 16:36:57,402: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-07-25 16:36:57,406: INFO: face_verification]: Starting face detection and extraction...
+[2025-07-25 16:36:57,745: INFO: face_verification]: Extracted face saved at: /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 16:36:57,746: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:36:57,746: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:36:57,746: INFO: face_verification]: Starting face verification...
+[2025-07-25 16:36:57,746: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:36:57,746: INFO: utils]: File exists at /Users/pawandwivedi/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-07-25 16:36:59,205: INFO: face_verification]: Face verification successful.
+[2025-07-25 16:36:59,207: INFO: ocr_engine]: Text Extraction Started...
+[2025-07-25 16:37:01,686: INFO: ocr_engine]: Inside Try-Catch...
+[2025-07-25 16:37:05,375: INFO: ocr_engine]: Extracted Text: |Government of India|HR &|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|
+[2025-07-25 16:37:05,377: INFO: face_verification]: Generating face embeddings for image: data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:37:05,377: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-07-25 16:37:06,575: INFO: face_verification]: Embeddings extracted successfully.
+[2025-07-25 16:37:06,632: ERROR: sql_connection]: fetch_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")
+[2025-07-25 16:37:06,638: INFO: sql_connection]: check_duplicacy_aadhar: False
+[2025-07-25 16:37:06,641: ERROR: sql_connection]: insert_records_aadhar error: (1146, "Table 'pawan.aadhar' doesn't exist")

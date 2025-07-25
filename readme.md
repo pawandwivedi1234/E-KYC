@@ -11,7 +11,7 @@ The E-KYC web application provides an interactive user interface where users can
    
 ## Face Verification Demo
 
-![E-KYC-FACE VERIFICATION DEMO](https://github.com/abhishekiiitbh2903/E-KYC-/blob/main/assets/Face%20Verification.gif)
+![E-KYC-FACE VERIFICATION DEMO](https://github.com/pawandwivedi1234/E-KYC.git)
 
 
 Herein, I have uploaded an ID card of my dad and an image of myself. As a result, the face verification fails, and as stated above, the subsequent codes do not execute.
@@ -22,7 +22,7 @@ Herein, I have uploaded an ID card of my dad and an image of myself. As a result
 
 ## Full Workflow of web app
 
-![Full Workflow](https://github.com/abhishekiiitbh2903/E-KYC-/blob/main/assets/Full%20Workflow.gif)
+![Full Workflow](https://github.com/pawandwivedi1234/E-KYC.git)
 
 I first uploaded my Aadhar ID and a photo of my dad. The app flagged a warning as face verification failed, and subsequent code didn't execute. Then, I uploaded my own face image, the verification succeeded, and my data was inserted into the database. To check for duplicacy and confirm my data was correctly inserted, I reuploaded my face image. The response indicated that a person with my ID already exists in the database, validating proper database handling and ensuring no data duplicacy.
 
@@ -53,7 +53,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
     ```sh
-    https://github.com/abhishekiiitbh2903/E-KYC-.git
+    https://github.com/pawandwivedi1234/E-KYC.git
     cd E-KYC-
     ```
 
