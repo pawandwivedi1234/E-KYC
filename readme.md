@@ -1,4 +1,4 @@
-# E-KYC Project
+# E-KYC Project 
 Welcome to the E-KYC project! This project leverages cutting-edge techniques in computer vision, natural language processing, convolutional neural networks (CNNs), and long short-term memory networks (LSTMs) to facilitate automatic Know Your Customer (KYC) processes. 
 
 ## Overview
@@ -113,7 +113,7 @@ Ensure you have the following installed:
 
 The application logs various events and errors for easier debugging and monitoring. Logs are stored in the `logs` directory. Ensure this directory exists in your local setup or create it manually if it does not exist.
 
-**Note**: The `logs` directory has not been included in the repository to prevent accidental exposure of sensitive information or potential data breaches from logs related to your local system.
+Note: The `logs` directory has not been included in the repository to prevent accidental exposure of sensitive information or potential data breaches from logs related to your local system.
 
 Proper logging practices have been implemented throughout the project to ensure comprehensive error tracking and system monitoring.
 
